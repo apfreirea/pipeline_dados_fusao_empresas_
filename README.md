@@ -14,12 +14,12 @@ Este projeto visa criar um pipeline para condensar dados de duas empresas após 
  
 ## Estrutura do repositório
 
-README.md: Este arquivo, que vocês estão lendo agora :) ;
-data_raw: dados brutos extraídos das empresas;
-data_processed: dados após o processados;
-notebooks: Diretório com o notebook de exploração de dados;
-scripts: scripts pipeline e processamento de dados;
-LINCESE: arquivo com a licença do projeto;
+- *README.md:* Este arquivo, que vocês estão lendo agora :) </br>
+- *data_raw:* dados brutos extraídos das empresas </br>
+- *data_processed:* dados após o processados </br>
+- *notebooks:* Diretório com o notebook de exploração de dados </br>
+- *scripts:* scripts pipeline e processamento de dados </br>
+- *LINCESE:* arquivo com a licença do projeto </br>
 
 ### Ferramentas: 
 - Linguagem pyhton
